@@ -222,8 +222,8 @@ body .bottom_bar{
     width: 35%;
     border-radius: 15px;
     height: 42%;
-    background-color: white;
-    background-position: center;
+    bckground-color: transparent;
+    background-size: cover;
     background-size: 100%;
     background-repeat: no-repeat;
     z-index: 0;
